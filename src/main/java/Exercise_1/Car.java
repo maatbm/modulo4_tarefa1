@@ -1,11 +1,11 @@
-package Exercicio_1;
+package Exercise_1;
 
-public class Carro {
+public class Car {
     private final String mark;
     private final String model;
     private final int year;
 
-    public Carro(String marca, String modelo, int ano) {
+    public Car(String marca, String modelo, int ano) {
         this.mark = marca;
         this.model = modelo;
         this.year = ano;
